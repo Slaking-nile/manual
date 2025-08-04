@@ -1,5 +1,8 @@
-{
-  type: 'doc',
-  id: 'index',
-  label: 'はじめに',
-}
+---
+id: index
+title: はじめに
+---
+
+# はじめに
+
+ここに本文を書く。
