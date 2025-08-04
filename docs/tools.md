@@ -1,5 +1,5 @@
 ---
-id: responsibilities
+id: tools
 title: tools
 ---
 # 3. 社内ツールとコミュニケーション
