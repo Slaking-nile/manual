@@ -1,5 +1,5 @@
 ---
-id: responsibilities
+id: dailyflow
 title: dailyflow
 ---
 # 4. 1日の仕事の流れ
