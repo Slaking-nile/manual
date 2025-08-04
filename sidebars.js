@@ -19,11 +19,6 @@ const sidebars = {
     },
     {
       type: 'doc',
-      id: 'tools',
-      label: '社内ツールとコミュニケーション',
-    },
-    {
-      type: 'doc',
       id: 'dailyflow',
       label: '1日の仕事の流れ',
     },
