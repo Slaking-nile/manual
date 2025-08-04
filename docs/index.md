@@ -4,46 +4,29 @@ title: はじめに
 sidebar_label: はじめに
 ---
 
-# Tutorial Intro
+# 星さんへ：業務マニュアルのご案内
 
-Let's discover **Docusaurus in less than 5 minutes**.
+このマニュアルは、ネットワールドでの業務に早く慣れてもらうためにまとめたものです。  
+困ったときにいつでも見返せる「安心できる道しるべ」になることを目指しています。
 
-## Getting Started
+---
 
-Get started by **creating a new site**.
+## 📚 目次
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+1. [わたしたちが担当してるプロダクトたち](./products)
+2. [社内ツールとコミュニケーション](./tools)
+3. [1日の仕事の流れ](./workflow)
+4. [実務上のコツ・注意点](./tips)
+5. [注意事項と制限](./limitations)
+6. [自分らしく働くために](./style)
+7. [検証・ディプロイ](./deployment)
+8. [組織について](./organization)
+9. [各種テンプレート集](./templates)
 
-### What you'll need
+---
 
-- [Node.js](https://nodejs.org/en/download/) version 18.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+## 📌 注意事項
 
-## Generate a new site
+- このマニュアルは随時更新されます。最新の情報は必ずTeamsやOutlookでのアナウンスも確認してください。
+- 不明点は遠慮なく聞いてくださいね！
 
-Generate a new Docusaurus site using the **classic template**.
-
-The classic template will automatically be added to your project after you run the command:
-
-```bash
-npm init docusaurus@latest my-website classic
-```
-
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
-
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
