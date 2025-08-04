@@ -1,12 +1,4 @@
-/**
- * Creating a sidebar enables you to:
- * - create an ordered group of docs
- * - render a sidebar for each doc group
- * - provide next/previous navigation
- */
-
-const sidebars = {
- module.exports = {
+module.exports = {
   tutorialSidebar: [
     {
       type: 'doc',
@@ -35,7 +27,7 @@ const sidebars = {
     },
     {
       type: 'doc',
-      id: 'deployment', // 検証・デプロイ
+      id: 'deployment', // 検証・ディプロイ
     },
     {
       type: 'doc',
@@ -47,6 +39,3 @@ const sidebars = {
     },
   ],
 };
-
-
-export default sidebars;
